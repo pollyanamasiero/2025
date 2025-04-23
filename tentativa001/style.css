@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #445964;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+}
+
+#home {
+    display: flex;
+    padding: 20px;
+}
+
+#programando {
+    /* width: 705px;
+    height: 697px; */
+}
+
+.botao {
+    background-color: #263138;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
